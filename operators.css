@@ -1,0 +1,15 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVuK-_mRrNWm4_EMtc7rtxL9lEximjySx1hhGrrAj02Mx9LILOQuRvUnOwqRSMc5KiKg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: 1920px 2080px; 
+}
+h1{
+  position: absolute;
+  left: 200px;
+  font-family: sans-serif;
+  font-size: 50px;
+  color: DarkCyan;
+}
+h2{
+  font-family: Lucida Console;
+}

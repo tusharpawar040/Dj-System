@@ -1,0 +1,24 @@
+body{
+background-color: Azure;
+}
+
+.img-aw{
+  position: relative;
+  top: 100px;
+  left: 550px;
+}
+
+p{
+  position: relative;
+  top: 150px;
+  left: 400px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+h1{
+  position: absolute;
+  top: 50px;
+  left: 170px;
+  color: blue;
+  font-family: cursive;
+}

@@ -1,0 +1,240 @@
+body{
+  background-color: lightgray;
+  background-image: url("https://c0.wallpaperflare.com/preview/176/478/441/amplifier-close-up-console-control.jpg");
+  background-repeat: no-repeat;
+  background-size: 1700px 920px;
+}
+a{
+  text-decoration: none;
+}
+
+
+h1{
+  color: white;
+  font-size: 400%;
+  position: absolute;
+  left: 210px;
+  top: 75px;
+  font-family: inherit;
+  animation-delay: 2s;
+}
+
+.h1-1{
+  color: Crimson;
+  position: absolute;
+
+}
+
+body, html {
+  height: 100%;
+}
+.img-title{
+  height: 100%;
+  background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+/* new release */
+
+.hr-1{
+  border:  2px solid orange;
+  shape-outside: border-box;
+  position: absolute;
+  top: 198px;
+  right: 900px;
+  left: 190px;
+
+}
+
+.paragraph{
+  color: white;
+  font-size: 21px;
+  font-family:cursive;
+}
+.par1{
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.par2{
+  position: absolute;
+  left: 200px;
+  top: 230px;
+}
+.par3{
+  position: absolute;
+  left: 200px;
+  top: 260px;
+}
+.par4{
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+.par5{
+  position: absolute;
+  left: 200px;
+  top: 330px;
+}
+.par6{
+  position: absolute;
+  left: 200px;
+  top: 360px;
+}
+.par7{
+  position: absolute;
+  left: 200px;
+  top: 390px;
+}
+.par8{
+  position: absolute;
+  left: 200px;
+  top: 420px;
+}
+.par9{
+  position: absolute;
+  left: 200px;
+  top: 450px;
+}
+.par10{
+  position: absolute;
+  left: 200px;
+  top: 480px;
+}
+
+.nav-a{
+  text-decoration:underline;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+   position: absolute;
+  top: 550px;
+  /*left: 300px; */
+}
+.nav-link{
+  font-family: Georgia;
+  color: MediumBlue;
+}
+.nav-link:hover{
+  color: white;
+}
+.nav-link1{
+  color: white;
+  position: relative;
+  top: 100px;
+}
+.nav-link2{
+  position: relative;
+  top: 100px;
+  left: 100px;
+  color: white;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.btn-nav{
+  padding: 10% 10% 10% 10%;
+}
+.btn-nav1{
+  position: absolute;
+  left: 1200px;
+  top: 30px;
+  background-color: lightgray;
+}
+.btn-nav1:hover{
+    background-color: LawnGreen;
+    color: white;
+      }
+
+.btn-navigation{
+  padding: 16px 30px ;
+  position: absolute;
+  left: 1200px;
+  top: -300px;
+  background-color: lightgray;
+}
+.btn-navigation:hover{
+  background-color: HotPink;
+  color: white;
+}
+.btn-navigation1{
+  padding: 16px 30px;
+  position: absolute;
+  left: 1200px;
+  top: 200px;
+  background-color: lightgray;
+}
+.btn-navigation1:hover{
+  background-color: RoyalBlue;
+  color: RoyalBlue;
+}
+.btn-soft{
+  position: absolute;
+  top: -130px;
+  left: 1200px;
+  color: black;
+}
+.btn-soft:hover{
+    background-color: SlateBlue;
+    color: white;
+  }
+/*
+ .nav-link{
+  size: 400px;
+  top:
+} */
+.img-1{
+  position: absolute;
+  top: 400px;
+  left: 650px;
+
+}
+.p-1{
+  position: absolute;
+  left: 750px;
+  top: 610px;
+size: 350px;
+color: white;
+}
+
+.a-10{
+  background-image: url();
+  background-color: orange;
+  position: absolute;
+  top: 600px;
+  left: 720px;
+  color: white;
+  size:1.5rem;
+    }
+    .a-10:hover{
+      color: Turquoise;
+      background-color: white;
+    }
+.op-img{
+  position:absolute;
+  top: 2000px;
+}
+.op1-img{
+  position:absolute;
+  top: 2000px;
+  left: 300px;
+}
+.w3-section{
+  position: absolute;
+  left: 560px;
+  top: 300px;
+}
+
+#footer{
+  color: white;
+  position: absolute;
+  left: 700px;
+  top: 800px;
+}

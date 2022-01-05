@@ -1,0 +1,172 @@
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxee9ybKX9a-66PsIIcR9pi54UT04zpPQdSQ&usqp=CAU");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: snow;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+p{
+  font-family: cursive;
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 60px;
+  left: 480px;
+  color: SpringGreen;
+}
+ul{
+  position: absolute;
+  top: 300px;
+  left:  400px;
+  font-size: 30px;
+  color: green;
+}
+
+
+.w3-section{
+  position: absolute;
+  left: 260px;
+  top: 300px;
+  }
+
+/* softwares */
+
+#first{
+
+  position: absolute;
+  top: 900px;
+  left: 600px;
+}
+.h2-1{
+  position: absolute;
+  left: 20px;
+}
+.a-1{
+  text-decoration: none;
+}
+.btn{
+
+  /* .button { */
+  background-color: #4CAF50; /* Green */
+  border: none;
+  /* color: black; */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+ .btn-1 {
+  background-color: gray;
+  color: black;
+  border: 2px solid #4CAF50;
+  position: absolute;
+  right: 70px;
+  top:500px;
+
+
+}
+.btn-1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#second{
+  position: absolute;
+  top: 1800px;left: 600px;
+}
+ .btn-2 {
+   background-color: gray;
+    color: black;
+    border: 2px solid #008CBA;
+  position: absolute;
+  right: 70px;
+  top:500px;
+
+
+}
+.btn-2:hover {
+  background-color: #008CBA;
+   color: white;
+}
+
+#third{
+  position: absolute;
+  top: 2700px;left: 600px;
+}
+.btn-3 {
+  background-color: black;
+   color: black;
+   border: 2px solid #f44336;
+ position: absolute;
+ right: 70px;
+ top:500px;
+
+
+}
+.btn-3:hover {
+  background-color: #f44336;
+   color: white;
+}
+
+#fourth{
+  position: absolute;
+  top: 3600px;left: 600px;
+}
+.btn-4 {
+  background-color: gray;
+ color: black;
+ border: 2px solid #e7e7e7;
+  position: absolute;
+  right: 70px;
+  top:500px;
+
+
+}
+.btn-4:hover {
+  background-color: #e7e7e7;
+}
+
+#fifth{
+  position: absolute;
+  top: 4500px;left: 600px;
+}
+.btn-5 {
+  background-color: darkgray;
+    color: black;
+    border: 2px solid #555555;
+ position: absolute;
+ right: 70px;
+ top:500px;
+
+
+}
+.btn-5:hover {
+  background-color: #555555;
+   color: white;
+}
+
+#sixth{
+  position: absolute;
+  top: 5400px;left: 600px;
+}
+.btn-6 {
+  background-color: gray;
+   color: black;
+   border: 2px solid #008CBA;
+ position: absolute;
+ right: 70px;
+ top:500px;
+
+
+}
+.btn-6:hover {
+ background-color: #008CBA;
+  color: white;
+}

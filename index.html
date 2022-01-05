@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <title>Dj System</title>
+</head>
+<link href="https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/275876e07a.js" crossorigin="anonymous"></script>
+<body style="background:("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquQ8ieTOtl3odVKoGvRhraPrsi0tz5klJiw&usqp=CAU");" >
+
+  <section id="title">
+    <h1>Dj Operating</h1><hr>
+    <hr class="hr-1">
+    <p class="paragraph par1">N</p>
+    <p class="paragraph par2">E</p>
+    <p class="paragraph par3">W</p>
+    <p class="paragraph par4">R</p>
+    <p class="paragraph par5">E</p>
+    <p class="paragraph par6">L</p>
+    <p class="paragraph par7">E</p>
+    <p class="paragraph par8">A</p>
+    <p class="paragraph par9">S</p>
+    <p class="paragraph par10">E</p>
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo"><span class="navbar-toggler-icon"></span></button> -->
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+
+        <ul class="navbar-nav nl-auto">
+        <!-- <li class="nav-item"> -->
+        <button class="btn-nav btn-nav1">    <a class="nav-link" href="tools.html"><strong>EQUIPEMENTS</strong></a></button>
+              </li>
+                <!-- <li class="nav-item"> -->
+      <button type="button" name="button" class="btn-soft btn-nav">      <a class="nav-link " href="software.html"><strong>SOFTWARE</strong></a></button>
+          </li>
+        <br><br>
+      <button class="btn-nav btn-navigation">    <strong>  <a class="nav-link" href="https://www.youtube.com/channel/UCJrOtniJ0-NWz37R30urifQ">MUSIC</a></strong></button>
+      <br><br>
+        <strong>  <a class="nav-link1   nav-a" href="#press" action="mailto:tp0407755@gmail.com">Contact</a></strong>
+          <strong>  <a class="nav-link2 nav-a" href="about-us.html">About us</a></strong>
+              <button class="btn-nav btn-navigation1">    <strong>  <a class="nav-link" href="operators.html">OPERATORS</a></strong></button>
+        </li>
+        </ul>
+      </div>
+    </nav>
+
+
+    <a class="a-10" target="_blank" href="https://www.youtube.com/watch?v=HHpVDRJ1Esg"><h2>BEHIND THE SET</a>
+
+  </section>
+</body>
+
+<!-- mySlides -->
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="https://www.w3schools.com/w3css/img_chicago.jpg" style="width:100%">
+  <img class="mySlides" src="https://www.w3schools.com/w3css/img_la.jpg" style="width:100%">
+  <img class="mySlides" src="https://www.w3schools.com/w3css/img_ny.jpg" style="width:100%">
+    <img class="mySlides" src="https://c4.wallpaperflare.com/wallpaper/61/671/707/anime-anime-girls-long-hair-blue-hair-wallpaper-preview.jpg" style="width:100%">
+    <img class="mySlides" src="https://c4.wallpaperflare.com/wallpaper/306/393/90/alan-walker-bandanas-hd-wallpaper-preview.jpg" style="width:100%">
+    <img class="mySlides" src="https://c4.wallpaperflare.com/wallpaper/984/570/489/marshmello-electronic-wallpaper-preview.jpg" style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+<!-- footer -->
+
+<footer id="footer">
+
+  <section id="press">
+
+    <i class="footer-icon fab fa-facebook"></i>
+    <i class="footer-icon fab fa-twitter"></i>
+    <i class="footer-icon fab fa-instagram"></i>
+    <i class="footer-icon fas fa-envelope"></i>
+  </section>
+    <p>© Copyright 2021 Dj</p>
+</footer>
+
+</html>
